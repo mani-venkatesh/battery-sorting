@@ -1,0 +1,7 @@
+tensorflow
+os
+ultralytics
+opencv-python-headless
+imghdr
+numpy
+matplotlib
